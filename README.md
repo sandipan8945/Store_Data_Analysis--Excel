@@ -8,8 +8,6 @@ For this project, I focused on extracting meaningful insigts from a large datase
 
 🔴 Data Visualization: After processing create an interactive dashboard to track and analyze online salles data. 
 
-![Store Data Analysis](https://github.com/sandipan8945/Store_Data_Analysis--Excel/assets/106609781/4ef832f4-9144-4e08-a1c4-f1d21193e6a4)
-
 🌟Sample Insigts🌟
 
 🟧Womens are more likely to buy compared to men.
